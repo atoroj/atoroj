@@ -17,15 +17,13 @@
   <a href="https://www.linkedin.com/in/atorojaen/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/atoroj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://tonitoro.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://ceur-ws.org/Vol-4098/MiSonGyny2025_paper3.pdf">
     <img src="https://img.shields.io/badge/Research_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Paper">
   </a>
 </p>
-
----
 
 ## 👨‍💻 About me
 
